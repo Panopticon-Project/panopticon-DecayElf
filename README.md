@@ -7,3 +7,5 @@ https://therecord.media/medical-debt-collection-firm-says-ransomware-attack-expo
 https://therecord.media/dominican-republic-refuses-to-pay-ransom-after-attack-on-agrarian-institute/
 
 https://www.bleepingcomputer.com/news/security/quantum-ransomware-attack-disrupts-govt-agency-in-dominican-republic/
+
+https://blog.bushidotoken.net/2022/11/the-continuity-of-conti.html
